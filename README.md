@@ -48,9 +48,9 @@ if _name_ == "_main_":
 ```        
 ### OUTPUT:
 ![output](a1.jpeg)
-![ouput](a2.jpeg)
-![ouput](a3.jpeg)
-![ouput](a4.jpeg)
+![output](a2.jpeg)
+![output](a3.jpeg)
+![output](a4.jpeg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
